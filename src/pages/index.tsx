@@ -157,24 +157,24 @@ export default function Home() {
               >
                 Home
               </div>
-              <div 
-                className="text-white text-xl font-light cursor-pointer hover:text-gray-300 transition-colors" 
+              <a 
+                href="https://x.com/SolarSentra"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white text-xl font-light cursor-pointer hover:text-gray-300 transition-colors block" 
+                style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}
+              >
+                Follow Us
+              </a>
+              <a 
+                href="https://solarsentra.mintlify.app/whitepaper/introduction"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white text-xl font-light cursor-pointer hover:text-gray-300 transition-colors block" 
                 style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}
               >
                 Whitepaper
-              </div>
-              <div 
-                className="text-white text-xl font-light cursor-pointer hover:text-gray-300 transition-colors" 
-                style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}
-              >
-                Twitter
-              </div>
-              <div 
-                className="text-white text-xl font-light cursor-pointer hover:text-gray-300 transition-colors" 
-                style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}
-              >
-                GitHub
-              </div>
+              </a>
             </nav>
           </div>
           
@@ -213,24 +213,24 @@ export default function Home() {
                 >
                   Home
                 </div>
-                <div 
+                <a 
+                  href="https://x.com/SolarSentra"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-white text-2xl xl:text-3xl font-light cursor-pointer hover:text-gray-300 transition-colors block" 
+                  style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}
+                >
+                  Follow Us
+                </a>
+                <a 
+                  href="https://solarsentra.mintlify.app/whitepaper/introduction"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-white text-2xl xl:text-3xl font-light cursor-pointer hover:text-gray-300 transition-colors block" 
                   style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}
                 >
                   Whitepaper
-                </div>
-                <div 
-                  className="text-white text-2xl xl:text-3xl font-light cursor-pointer hover:text-gray-300 transition-colors block" 
-                  style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}
-                >
-                  Twitter
-                </div>
-                <div 
-                  className="text-white text-2xl xl:text-3xl font-light cursor-pointer hover:text-gray-300 transition-colors block" 
-                  style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}
-                >
-                  GitHub
-                </div>
+                </a>
               </nav>
             </div>
             
