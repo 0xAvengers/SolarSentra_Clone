@@ -275,7 +275,7 @@ export const DecorativeUIFrame = ({
             </a>
 
             <a
-              href="https://x.com/solarsentra"
+              href="https://x.com/solar_sentra"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl font-helvetica-now-text font-bold uppercase text-white hover:text-[#CDFE00] transition-colors duration-300 cursor-pointer"
@@ -360,7 +360,7 @@ export const DecorativeUIFrame = ({
         </motion.a>
         
         <motion.a
-          href="https://x.com/solarsentra"
+          href="https://x.com/solar_sentra"
           target="_blank"
           rel="noopener noreferrer"
           className="text-lg font-helvetica-now-text font-bold uppercase hover:text-[#CDFE00] hover:scale-105 transition-all duration-300 ease-out cursor-pointer relative group"
@@ -415,7 +415,7 @@ export const DecorativeUIFrame = ({
       {/* Social Icons - Fixed bottom right */}
       <div className="fixed bottom-14 right-14 z-50 flex items-center gap-6 pointer-events-auto hidden md:flex">
         <motion.a
-          href="https://x.com/solarsentra"
+          href="https://x.com/solar_sentra"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-[#CDFE00] hover:scale-110 transition-all duration-300 ease-out cursor-pointer"

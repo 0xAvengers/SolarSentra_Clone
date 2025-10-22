@@ -158,7 +158,7 @@ export default function Home() {
                 Home
               </div>
               <a 
-                href="https://x.com/SolarSentra"
+                href="https://x.com/Solar_Sentra"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white text-xl font-light cursor-pointer hover:text-gray-300 transition-colors block" 
@@ -214,7 +214,7 @@ export default function Home() {
                   Home
                 </div>
                 <a 
-                  href="https://x.com/SolarSentra"
+                  href="https://x.com/Solar_Sentra"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white text-2xl xl:text-3xl font-light cursor-pointer hover:text-gray-300 transition-colors block" 
