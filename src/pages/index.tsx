@@ -245,10 +245,10 @@ export default function Home() {
         
         {/* Información inferior */}
         <div className="absolute bottom-8 md:bottom-16 left-8 md:left-16 right-8 md:right-16 flex justify-between items-end">
-          {/* JOIN THE FUTURE */}
+          {/*  */}
           <div>
             <h3 className="text-white text-sm md:text-base font-light mb-4" style={{ fontFamily: 'Formula Condensed', fontWeight: 300 }}>
-              ▶ JOIN THE FUTURE
+              
             </h3>
           </div>
           
